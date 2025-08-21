@@ -16,6 +16,7 @@ credentials.json
 *.pfx
 *.crt
 *.csr
+gcp/*.json
 
 # Database Files
 *.db
